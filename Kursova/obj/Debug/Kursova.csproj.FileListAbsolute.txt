@@ -1,0 +1,10 @@
+D:\С#\Kursova\Kursova\bin\Debug\Kursova.exe.config
+D:\С#\Kursova\Kursova\bin\Debug\Kursova.exe
+D:\С#\Kursova\Kursova\bin\Debug\Kursova.pdb
+D:\С#\Kursova\Kursova\obj\Debug\Kursova.csprojAssemblyReference.cache
+D:\С#\Kursova\Kursova\obj\Debug\Kursova.Form1.resources
+D:\С#\Kursova\Kursova\obj\Debug\Kursova.Properties.Resources.resources
+D:\С#\Kursova\Kursova\obj\Debug\Kursova.csproj.GenerateResource.cache
+D:\С#\Kursova\Kursova\obj\Debug\Kursova.csproj.CoreCompileInputs.cache
+D:\С#\Kursova\Kursova\obj\Debug\Kursova.exe
+D:\С#\Kursova\Kursova\obj\Debug\Kursova.pdb
